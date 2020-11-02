@@ -1,6 +1,6 @@
 # card
 
-A new Flutter application.
+A new Flutter application that shows a attractive Business card which shows your profile.
 
 ## Getting Started
 
